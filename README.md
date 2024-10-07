@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harry613-uit
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React And Django 
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
